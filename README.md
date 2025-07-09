@@ -1,6 +1,6 @@
 # ☝️ "Fit한 서버를 개발하는" 이원준입니다.  
 컴퓨터 공학을 전공했고, SSAFY 13기에 입과하여 프로그래밍 교육 과정을 수료했습니다.  
-종합성적 1위로 1학기를 수료했고, 프로그래밍 언어에 대한 이해부터 프레임워크를 다루는 방법, 컴퓨터 공학 지식들을 꼼꼼히 공부하고 기록했습니다.  
+종합성적 1위로 1학기를 수료했고, 프로그래밍 언어에 대한 이해부터 프레임워크를 다루는 방법, CS 지식을 꼼꼼히 공부하고 기록했습니다.  
 산출물에 기반한 설계, DB 구축/개발, 디버깅, 테스트 코드 작성에 자신있습니다.
 
 # Things I code with  
@@ -67,6 +67,10 @@
 </div>
 
 ---
+# Blog
+약 2년 이상 기술/공부 블로그를 운영하고 있습니다.<br><br>
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@cosmos334/posts)<br>
+<h2>☝️ Click to visit!</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=moe-lee&row=1&column=6"/>
