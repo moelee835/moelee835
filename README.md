@@ -3,6 +3,7 @@
 종합성적 1위로 1학기를 수료했고, 프로그래밍 언어에 대한 이해부터 프레임워크를 다루는 방법, CS 지식을 꼼꼼히 공부하고 기록했습니다.  
 산출물에 기반한 설계, DB 구축/개발, 디버깅, 테스트 코드 작성에 자신있습니다.
 <br>
+<br>
 # Things I code with  
 <div>
 <!-- 🟦 Languages -->
@@ -66,7 +67,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe-lee&layout=compact"/>
 </div>
 
-<br><br>
+<br>
+
 # Blog
 <div align="center">
 약 2년 이상 기술/공부 블로그를 운영하고 있습니다.<br><br>
