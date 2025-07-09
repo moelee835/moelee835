@@ -9,6 +9,7 @@
 4. 테스트 코드 작성 (JUnit, Mockito를 활용한 Unit/Integration test)
 <br>
 <br>
+
 # Things I code with  
 <div>
 <!-- 🟦 Languages -->
@@ -74,6 +75,12 @@
 
 <br>
 
+# Algorithm
+<div align="center">
+<a href="https://solved.ac/evenil0206/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=evenil0206"/></a><br>
+</div>
+<br>
+
 # Blog
 <div align="center">
 약 2년 이상 기술/공부 블로그를 운영하고 있습니다.<br><br>
@@ -81,11 +88,6 @@
 ☝️ Click to visit!
 </div>
 
-# Algorithm
-<div align="center">
-<a href="https://solved.ac/evenil0206/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=evenil0206"/></a><br>
-</div>
-<br>
 <br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=moe-lee&row=1&column=6"/>
