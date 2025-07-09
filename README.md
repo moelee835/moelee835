@@ -6,7 +6,7 @@
 1. 산출물(UML)에 기반한 설계와 아이디어 제안
 2. DB 개발 전과정, SQL 활용 능력(Standard SQL, PL/SQL)
 3. 디버깅(IDE 디버거 활용)
-4. 테스트 코드 작성 (JUnit, Mockito를 활용한 Unit/Integration test)
+4. 테스트 코드 작성 / 테스트 수행 (JUnit, Mockito를 활용한 Unit/Integration test)
 <br>
 <br>
 
