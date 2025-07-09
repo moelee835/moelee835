@@ -1,7 +1,7 @@
-<div align="center" height="400px">
-  <img src="https://raw.githubusercontent.com/moe-lee/moe-lee/refs/heads/main/%EB%B0%B0%EB%84%88.png" />
-</div>
-<br>
+# ☝️ "Fit한 서버를 개발하는" 이원준입니다.  
+컴퓨터 공학을 전공했고, SSAFY 13기에 입과하여 프로그래밍 교육 과정을 수료했습니다.  
+종합성적 1위로 1학기를 수료했고, 프로그래밍 언어에 대한 이해부터 프레임워크를 다루는 방법, 컴퓨터 공학 지식들을 꼼꼼히 공부하고 기록했습니다.  
+산출물에 기반한 설계, DB 구축/개발, 디버깅, 테스트 코드 작성에 자신있습니다.
 
 # Things I code with  
 <div>
