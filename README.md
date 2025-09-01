@@ -49,6 +49,7 @@
         <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white"/>
         <img src="https://img.shields.io/badge/QueryDSL-009639?style=flat&logo=code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -80,6 +81,18 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>AI & 실시간/챗봇</td>
+      <td>
+        <img src="https://img.shields.io/badge/STT-Speech--to--Text-FF6F00?style=flat&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM/GPT-8A2BE2?style=flat&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/RAG-009688?style=flat&logo=elastic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/STOMP-4B32C3?style=flat&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenVidu-0E76A8?style=flat&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LiveKit-121212?style=flat&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -126,6 +139,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 <div align="center">
