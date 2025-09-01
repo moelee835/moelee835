@@ -10,7 +10,8 @@
 <br>
 <br>
 
-## 기술 스택
+## 기술스택
+
 <table>
   <thead>
     <tr>
@@ -19,6 +20,16 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>언어</td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-F80000?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PL/SQL-CC2927?style=flat&logo=oracle&logoColor=white"/>
+      </td>
+    </tr>
     <tr>
       <td>프론트엔드</td>
       <td>
@@ -32,11 +43,6 @@
     <tr>
       <td>백엔드</td>
       <td>
-        <img src="https://img.shields.io/badge/Java-F80000?style=flat&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PL/SQL-CC2927?style=flat&logo=oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
         <img src="https://img.shields.io/badge/OAuth2-2F6DB5?style=flat&logo=oauth&logoColor=white"/>
@@ -120,6 +126,7 @@
     </tr>
   </tbody>
 </table>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe-lee&layout=compact"/>
