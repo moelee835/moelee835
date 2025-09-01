@@ -33,7 +33,7 @@
 
 # 주요 프로젝트
 <dif align="center">
-  <a href="https://github.com/Reciplay"><h2>Reciplay : 온라인 실시간 화상 요리 클래스</h2></a>
+  <a href="https://github.com/Reciplay">Reciplay : 온라인 실시간 화상 요리 클래스</a>
 </div>
 
 <br>
