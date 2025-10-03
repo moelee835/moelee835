@@ -50,6 +50,7 @@
         <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white"/>
         <img src="https://img.shields.io/badge/QueryDSL-009639?style=flat&logo=code&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MSA-4285F4?style=flat&logo=microservices&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -57,6 +58,7 @@
       <td>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
       </td>
     </tr>
